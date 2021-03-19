@@ -84,5 +84,5 @@ function TradingCardContainer() {
 
 
 ReactDOM.render(
-  <TradingCardContainer />, document.querySelector('.test')
+  <TradingCardContainer />, document.querySelector('.container')
 );
